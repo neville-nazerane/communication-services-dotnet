@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <!-- Copyright needs to be in the form of © not (c) to be compliant -->
-    <Title>ACS Authentication Server Sample</Title>
+    <Title>ACS Authentication</Title>
     <Authors>Microsoft</Authors>
     <Company>Microsoft Corporation</Company>
     <Product>ACS Authentication Server Sample</Product>
